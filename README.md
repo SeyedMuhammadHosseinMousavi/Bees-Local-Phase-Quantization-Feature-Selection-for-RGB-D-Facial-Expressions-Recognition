@@ -28,4 +28,6 @@ https://link.springer.com/chapter/10.1007/978-3-031-64936-3_12#citeas
 
 ### More on the Project
 This book chapter, "Bees Local Phase Quantisation Feature Selection for RGB-D Facial Expression Recognition," featured in the book "Intelligent Engineering Optimisation with the Bees Algorithm," part of the Springer Series in Advanced Manufacturing.This work was initially presented at "The International Workshop on the Bees Algorithm and its Applications" in 2022, hosted by the University of Birmingham.
+![Results](https://github.com/user-attachments/assets/ccc5e8a4-a43f-4174-a1d8-b2560f500f32)
+
 
