@@ -7,7 +7,7 @@ This repository implements **Bees Local Phase Quantization (LPQ) Feature Selecti
 ### Overview
 
 This project uses the **Iranian Kinect Face DataBase (IKFDB)**, containing RGB and depth images for five emotions. Our pipeline includes preprocessing, LPQ feature extraction, Bees Algorithm (BA) feature selection, and classification. Key findings show that BA significantly boosts accuracy, especially with the Ensemble Subspace KNN classifier, reaching up to 99.8%.
-
+#### The repository contains some data set samples, but you should have the main dataset to get the exact results on the paper.
 ### Link to the Dataset
 https://link.springer.com/article/10.1007/s42452-020-03999-y
 
