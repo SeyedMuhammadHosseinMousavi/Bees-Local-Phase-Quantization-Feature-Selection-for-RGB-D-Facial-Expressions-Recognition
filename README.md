@@ -1,7 +1,11 @@
 # Bees Local Phase Quantization Feature Selection for RGB-D Facial Expressions Recognition
 
-### Link to the Paper
+### Link to the Paper:
 - https://link.springer.com/chapter/10.1007/978-3-031-64936-3_12#citeas
+
+### Please cite:
+- Mousavi, S.M.H., Ilanloo, A. (2025). Bees Local Phase Quantisation Feature Selection for RGB-D Facial Expression Recognition. In: Pham, D.T., Hartono, N. (eds) Intelligent Engineering Optimisation with the Bees Algorithm. Springer Series in Advanced Manufacturing. Springer, Cham. https://doi.org/10.1007/978-3-031-64936-3_12
+
 
 This repository implements **Bees Local Phase Quantization (LPQ) Feature Selection** for **RGB-D Facial Expressions Recognition**, as outlined in our paper. We used the Bees Algorithm (BA) to optimize LPQ-extracted features for classifying RGB-D images of facial expressions (emotion recognition), using SVM, KNN, Shallow Neural Network, and Ensemble Subspace KNN classifiers.
 ![FACS](https://github.com/user-attachments/assets/a0a0a7dd-0180-402e-8062-43f62b87d9d4)
